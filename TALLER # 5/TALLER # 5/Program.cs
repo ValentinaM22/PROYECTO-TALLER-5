@@ -42,7 +42,7 @@ class Program
                     break;
                 case 4:
                     list.SortDescending();
-                    Console.WriteLine("Lista ordenada en orden descendente.");
+                    Console.WriteLine("Lista ordenada en orden descendente");
                     break;
                 case 5:
                     list.ShowModes();
